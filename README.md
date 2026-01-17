@@ -1,3 +1,13 @@
+![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
+
+This work is licensed under a  
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
+
+本作品は  
+[Creative Commons 表示-非営利 4.0 国際 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)  
+の下で提供されています。
 
 # websh
 
